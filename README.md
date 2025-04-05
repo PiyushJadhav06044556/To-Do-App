@@ -4,6 +4,7 @@ A modern, responsive to-do list application built with React.js that helps you s
 <br/>
 
 Technologies Used
+<br/>
 React.js
 React Hooks
 Context API for state management
